@@ -5,7 +5,7 @@
 - GET service.php?endpoint=getUser&username=username
 
 # NODE METHOD:
-- recuerde que antes de levantar el servidor instalar las dependencias `npm install`
+- recuerde que antes de levantar el servidor instalar las dependencias: `npm install`
 - PUT localhost:3000/addUser
 - POST localhost:3000/activateUser
 - POST localhost:3000/deactivateUser
